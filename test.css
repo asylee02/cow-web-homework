@@ -1,0 +1,23 @@
+#name{
+  font-size: small;
+  color: blue;
+  background-color: red;
+}
+div{
+  font-size: small;
+  background-color: yellow;
+}
+#article{
+  background-color: rgb(17, 202, 156);
+  width: 700px;
+  height: 1000px;
+  text-align: center;
+}
+#child_article{
+  background-color: rgb(173, 25, 87);
+  color: white;
+  text-align: right;
+  margin: 10px;
+  margin-top: 20px;
+  padding: 100px;
+}
