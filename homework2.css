@@ -3,17 +3,17 @@ p{
 }
 #class{
   background-color: red;
-  display: inline-block;
+  display: inline-flex;
 }
 #id{
   background-color: blue;
-  display: inline-block;
+  display: inline-flex;
 }
 #grid{
   background-color: greenyellow;
-  display: inline-block;
+  display: inline-flex;
 }
 #flex{
   background-color: purple;
-  display: inline-block;
+  display: inline-flex;
 }
