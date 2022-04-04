@@ -1,0 +1,19 @@
+p{
+  size: 15px;
+}
+#class{
+  background-color: red;
+  display: inline-block;
+}
+#id{
+  background-color: blue;
+  display: inline-block;
+}
+#grid{
+  background-color: greenyellow;
+  display: inline-block;
+}
+#flex{
+  background-color: purple;
+  display: inline-block;
+}
