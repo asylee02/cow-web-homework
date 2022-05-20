@@ -1,0 +1,10 @@
+#bar{
+  height: 75px;
+  background-color: rgb(38, 11, 96);
+  color:white;
+}
+#coin{
+  font-size: 20px;
+  padding-top: 25px;
+  padding-left: 20px;
+}
