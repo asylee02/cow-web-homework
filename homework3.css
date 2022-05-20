@@ -1,0 +1,16 @@
+body{
+ text-align: center;
+}
+div{
+  line-height: 35px;
+}
+#logo{
+    font-size: 30px;
+}
+#login{
+  font-size: 30px;
+  margin: 30px;
+}
+#find{
+  color:orange;
+}
